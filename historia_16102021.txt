@@ -1,0 +1,301 @@
+    1  git config -l
+    2  ls -l
+    3  pwd
+    4  cd D:
+    5  mkdir arek git
+    6  ls -l
+    7  pwd
+    8  pwd
+    9  mkdir testGit
+   10  ls
+   11  s testGit
+   12  cd  testGit
+   13  gi init
+   14  ls
+   15  ls -l
+   16  exit
+   17  MKDIR cw0301
+   18  ls
+   19  cd cw0301
+   20  git init
+   21  ls
+   22  ls -l
+   23  git clone https://github.com/jquery/jquery
+   24  ls
+   25  cd jquery
+   26  git shortlog -s -n
+   27  git shortlog
+   28  git shortlog -s -n | wc -l
+   29  find . -type f prinet | grep -v -E '/\.git/' | wc -l
+   30  find . -type f print | grep -v -E '/\.git/' | wc -l
+   31  find . -type f -print | grep -v -E '/\.git/' | wc -l
+   32  git log --pretty=oneline | wc-l
+   33  git log --pretty=oneline | wc -l
+   34  git log | wc -l
+   35  1111
+   36  git log
+   37  gitt log --pretty email
+   38  gitt log --pretty
+   39  git log --pretty email
+   40  git log --pretty format
+   41  git log 
+   42  git log -2
+   43  git log --pretty=email
+   44  git log --pretty=online
+   45  git log --pretty=oneline
+   46  git log --abbrev-commit --abbrev=4 --pretty=oneline
+   47  git log --abbrev-commit --abbrev=1 --pretty=oneline
+   48  git log --abbrev-commit --abbrev=8 --pretty=oneline
+   49  git log --abbrev-commit --abbrev=4 --pretty=oneline
+   50  git log -5 --author=janek
+   51  git log -5 --author=janek
+   52  git log -5 --author=Michał
+   53  pwd
+   54  cd //
+   55  cd ..
+   56  pwd
+   57  cd -ls
+   58  ls
+   59  ls -l
+   60  cd ..
+   61  pwd
+   62  pwd
+   63  cd GIT_new
+   64  cd d
+   65  pwd
+   66  cd ..
+   67  cd ..
+   68  cd
+   69  pwd
+   70  cd d
+   71  pwd
+   72  cd d:
+   73  pwd
+   74  ls
+   75  cd GIT_NEW
+   76  git clone https://github.com/symfony/symfony
+   77  git log --pretty=oneline --author=stloyd | wc -l
+   78  ls
+   79  cd symfoy
+   80  cd symfony
+   81  git log --pretty=oneline --author=stloyd | wc -l
+   82  git log --pretty=oneline --author=jakzal | wc -l
+   83  git log --pretty=oneline --author=gajdaw | wc -l
+   84  gitk
+   85  q
+   86  git gui
+   87  cd ..
+   88  ;s
+   89  ls
+   90  mkdir cw0401
+   91  cd cw0401
+   92  git clone git://github.com/h5bp/html5-boilerplate.git .
+   93  ls
+   94  ls -l
+   95  git reset --hard
+   96  git checkout -f
+   97  git checkout -f
+   98  git checkout
+   99  git checkout
+  100  git checkout -f
+  101  git status
+  102  pwd
+  103  cd ..
+  104  pwd
+  105  mkdir strona-www
+  106  pwd
+  107  ls -l
+  108  cd strona-www
+  109  mkdir css
+  110  cd css
+  111  touch style.css
+  112  touch js
+  113  touch skrypty.js
+  114  touch index.html
+  115  git init
+  116  git add -A
+  117  git status
+  118  git commit -m "Pierwsza rewizja - a"
+  119  git log
+  120  git status
+  121  git commit -m "Pierwsza rewizja - a"
+  122  git config --global userm.email "arkadiuszjaniel@gmail.com"
+  123  git config --global userm.name "Arkadiusz"
+  124  git log
+  125  git commit -m "Pierwsza rewizja - a"
+  126  git config --global user.name "Imie Nazwisko"
+  127  git config --global user.email arkadiuszjaniel.com
+  128  git config --global user.name "Imie Nazwisko"
+  129  git log
+  130  git commit -m "Pierwsza rewizja - a"
+  131  git log
+  132  pwd
+  133  touch print.css
+  134  cd ..
+  135  touch README
+  136  git status
+  137  git log
+  138  ls
+  139  cd css
+  140  ls
+  141  git log
+  142  git status
+  143  cd ..
+  144  git add -A
+  145  cd css
+  146  git add -A
+  147  git commit -m "Druga rewizja - b"
+  148  git log
+  149  git log --pretty=oneline
+  150  pwd
+  151  cd ..
+  152  mkdir strony
+  153  cd strony
+  154  touch strona-1.html
+  155  touch strona-2.html
+  156  touch strona-3.html
+  157  touch strona-4.html
+  158  touch strona-5.html
+  159  git status
+  160  cd ss
+  161  cd css
+  162  ls
+  163  cd ..
+  164  ls
+  165  cd css
+  166  ;s
+  167  ls
+  168  touch strona-1.html
+  169  touch strona-2.html
+  170  touch strona-3.html
+  171  touch strona-4.html
+  172  touch strona-5.html
+  173  git status
+  174  git add strona-1.html
+  175  git status
+  176  git add -A
+  177  git log]
+  178  git log
+  179  git status
+  180  git commit -m "Trzecia rewizja -c"
+  181  git log --abbrev=commit --abbrev=4 --pretty=oneline
+  182  git branch
+  183* 
+  184  git branch
+  185  git checkout 59d825
+  186  git checkout d4d948
+  187  git log
+  188  git branch
+  189  git checkout master
+  190  git branch
+  191  git history > histtext.txt
+  192  git history > histtext.txt
+  193  git history > histtext.txt
+  194  git history 
+  195  git histry 
+  196  exit
+  197  ls
+  198  git log
+  199  ls
+  200  git log
+  201  git status
+  202  git commit
+  203  git comit
+  204  git status
+  205  git add .
+  206  git status
+  207  git commit
+  208  git status
+  209  git log
+  210  git reset HEAD-1
+  211  git reset HEAD-1
+  212  git reset HEAD-2
+  213  git reset HEAD~2
+  214  git log
+  215  git reset HEAD~3
+  216  git reset HEAD~2
+  217  git reset HEAD~2
+  218  git reset HEAD~1
+  219  git log
+  220  git log
+  221  git status
+  222  git log
+  223  GIT RESET HEAD^
+  224  git reset HEAD^
+  225  git reset HEAD^
+  226  git reset HEAD-1
+  227  git reset HEAD~1
+  228  git reset HEAD~1
+  229  git reset HEAD~1
+  230  git reset HEAD-1
+  231  git reset HEAD~1
+  232  git reset HEAD~2
+  233  git reset HEAD~2
+  234  git reset HEAD~1
+  235  git reset HEAD-1
+  236  git reset HEAD~1
+  237  git reset HEAD~1
+  238  git log --oneline
+  239  git reset 8595d18
+  240  git log
+  241  git reset 8595d18 HEAD
+  242  git log
+  243  git log
+  244  git add .
+  245  git add .
+  246  git commit 
+  247  git log
+  248  git log --oneline
+  249  git reset 998ae27
+  250  git log --oneline
+  251  git reset 998ae27 Test1
+  252  git status
+  253  git log --oneline
+  254  git reset HEAD^
+  255  git log --oneline
+  256  git status
+  257  git log
+  258  git pull
+  259  git push u origin2 main
+  260  git push -u origin2 main
+  261  git push -u origin2 main
+  262  git push -u origin2 master
+  263  git echo 'nowy plik' > nowy.txt
+  264  git echo 'nowy plik' > nowy.txt
+  265  echo 'nowy plik' > nowy.txt
+  266  ls
+  267  git add ,
+  268  git add .
+  269  git add .
+  270  git commit
+  271  git pull origin2 main
+  272  git pull origin2 pierwszyBranch
+  273  ls
+  274  git push origin2 pierwszyBranch
+  275  git revert HEAD
+  276  git log
+  277  git revert HEAD-2
+  278  git revert HEAD~2
+  279  ls
+  280  git status
+  281  git log
+  282  git revert HEAD~2
+  283  git log
+  284  git log
+  285  ls
+  286  git push origin2 pierwszyBranch
+  287  ls
+  288  git log
+  289  git status
+  290  echo 'nowy2' > nowy2.txt
+  291  git status
+  292  git add .
+  293  git add .
+  294  git status
+  295  git restore --staged<nowy2.txt
+  296  git restore --staged nowy2.txt
+  297  ls
+  298  git status
+  299  git history > historia_16102021.txt
+  300  git history > historia_16102021.txt
+  301  history > historia_16102021.txt
