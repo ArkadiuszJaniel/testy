@@ -1,0 +1,37 @@
+[33mcommit 310f8326980719a98e1818d3d930030b1c0bcb32[m[33m ([m[1;36mHEAD -> [m[1;32mpierwszyBranch[m[33m, [m[1;31morigin2/pierwszyBranch[m[33m, [m[1;31morigin2/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 6d42043 48740b2
+Author: Arkadiusz Janiel <arkadiuszjaniel@gmail.com>
+Date:   Fri Oct 15 23:47:18 2021 +0200
+
+    Merge branch 'main' of https://github.com/ArkadiuszJaniel/testy
+
+[33mcommit 6d420430cf071ab69e938638b40f74aa87afa64d[m
+Merge: 8595d18 f1d4393
+Author: Arkadiusz Janiel <arkadiuszjaniel@gmail.com>
+Date:   Fri Oct 15 23:43:52 2021 +0200
+
+    Merge branch 'main' of https://github.com/ArkadiuszJaniel/git
+
+[33mcommit 48740b242c25a06ed4529070cb9bf2789519f756[m[33m ([m[1;31morigin2/main[m[33m)[m
+Author: Arkadiusz <39420879+ArkadiuszJaniel@users.noreply.github.com>
+Date:   Fri Oct 15 23:36:38 2021 +0200
+
+    komit branch main plik1
+
+[33mcommit f1d43937ba88bf2477cd70af91f11fc11969d10e[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Arkadiusz <39420879+ArkadiuszJaniel@users.noreply.github.com>
+Date:   Fri Oct 15 23:27:32 2021 +0200
+
+    Commit drugi branch main
+
+[33mcommit 8595d1830ff41a92c5f442655020bf198994ae03[m
+Author: Arkadiusz Janiel <arkadiuszjaniel@gmail.com>
+Date:   Fri Oct 15 23:08:52 2021 +0200
+
+    Pierwszy commit branch master
+
+[33mcommit 6fe7e401721518d28181052030fd5cf9f7efbb1e[m
+Author: Arkadiusz <39420879+ArkadiuszJaniel@users.noreply.github.com>
+Date:   Fri Oct 15 22:33:47 2021 +0200
+
+    Dodanie pliku Test1
