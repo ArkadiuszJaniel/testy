@@ -1,11 +1,9 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 sdsd2222sddasdsa
 dssaddddddsadsadsdsd sadas dddpierwszy commit
 dsdsds
-dasdsadasdasddasdassdsa
 =======
-sdsdsddadsdsd222ssdssdsa
-dssdsds212121adsadsadsdsd sadas dddpierwszy commit
+sdsdsddadsdsdssdssdsa
+dssdsdsadsadsadsdsd sadas dddpierwszy commit
 dsadsadsdsdsadasds
 >>>>>>> kolejny
