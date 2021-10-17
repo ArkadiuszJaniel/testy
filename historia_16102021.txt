@@ -1,5 +1,4 @@
-    1  git config -l
-    2  ls -l
+
     3  pwd
     4  cd D:
     5  mkdir arek git
@@ -252,50 +251,17 @@
   252  git status
   253  git log --oneline
   254  git reset HEAD^
-  255  git log --oneline
-  256  git status
-  257  git log
-  258  git pull
-  259  git push u origin2 main
-  260  git push -u origin2 main
-  261  git push -u origin2 main
-  262  git push -u origin2 master
-  263  git echo 'nowy plik' > nowy.txt
-  264  git echo 'nowy plik' > nowy.txt
-  265  echo 'nowy plik' > nowy.txt
-  266  ls
-  267  git add ,
-  268  git add .
-  269  git add .
-  270  git commit
-  271  git pull origin2 main
-  272  git pull origin2 pierwszyBranch
+
   273  ls
   274  git push origin2 pierwszyBranch
   275  git revert HEAD
-  276  git log
-  277  git revert HEAD-2
-  278  git revert HEAD~2
-  279  ls
-  280  git status
-  281  git log
+
   282  git revert HEAD~2
-  283  git log
-  284  git log
-  285  ls
+
   286  git push origin2 pierwszyBranch
-  287  ls
-  288  git log
-  289  git status
-  290  echo 'nowy2' > nowy2.txt
-  291  git status
-  292  git add .
-  293  git add .
+
+
   294  git status
   295  git restore --staged<nowy2.txt
   296  git restore --staged nowy2.txt
-  297  ls
-  298  git status
-  299  git history > historia_16102021.txt
-  300  git history > historia_16102021.txt
-  301  history > historia_16102021.txt
+  2
