@@ -1,4 +1,5 @@
 test
+<<<<<<< HEAD
 dasdas
 dadadadas
 ssdsas
@@ -7,3 +8,12 @@ sd
 a
 sd
 sds
+=======
+
+s
+as
+sd
+sad
+sad
+sa
+>>>>>>> kolejny
