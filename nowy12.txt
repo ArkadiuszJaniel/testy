@@ -1,0 +1,19 @@
+test
+<<<<<<< HEAD
+dasdas
+dadadadas
+ssdsas
+ssd
+sd
+a
+sd
+sds
+=======
+
+s
+as
+sd
+sad
+sad
+sa
+>>>>>>> kolejny
